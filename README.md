@@ -1,7 +1,7 @@
 # Real-Time-Chatapp
 
 ## Description
-A real-time chat web app built using React and Socket.IO, where users can log in, add friends and communicate with them in real time.
+A web application for real-time chat communication built with React and Socket.IO, which allows users to sign up, add friends, and talk with them in real-time.
 
 ## Packages
 - client - React.js Chakra UI as frontend
