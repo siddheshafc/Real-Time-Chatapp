@@ -1,19 +1,18 @@
 # Real-Time-Chatapp
 
-## Description
+## Description: 
 A web application for real-time chat communication built with React and Socket.IO, which allows users to sign up, add friends, and talk with them in real-time.
 
-## Packages
 - client - React.js Chakra UI as frontend
 - server - Node.js-Express as backend
 
-## How it works
+## Technologies used:
 * Front-End: React.js and Chakra UI
 * Back-End: Node.js / Express.js / Socket.io
 * Authenticaion: JWT
 * Database: PostgreSQL and Redis
 
-## Installation
+## Installation:
 * Clone the repository
 * CD into the repository and run ```npm install```
 * Make sure redis is installed in your system ```redis-cli``` functions properly
